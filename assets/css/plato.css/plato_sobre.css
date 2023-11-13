@@ -1,0 +1,34 @@
+.plato {
+	background-color: #ebebeb;
+	padding: 25px 0;
+
+}
+
+.plato-1 {
+	max-width: 100%;
+}
+
+.videoSobre .plato{
+	color: #FFF;
+}
+
+.videoSobre-sobre-title {
+	font-size: 1.2em;
+	font-weight: bolder;
+}
+
+.videoSobre-sobre {
+	font-size: 1.3em;
+	line-height: 2;
+}
+
+.videoSobre-button {
+	border-radius: 8px;
+	background-color: #f5a945;
+	display: block;
+	color: #FFF;
+	border: none;
+	height: 50px;
+	font-size: .8em;
+	outline: none;
+}

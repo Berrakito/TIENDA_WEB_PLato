@@ -1,0 +1,10 @@
+.contenedor{
+   display: flex;
+    justify-content: center;
+ 
+}
+.producto__titulo {
+    color: rgb(221, 136, 79);
+    
+    
+}

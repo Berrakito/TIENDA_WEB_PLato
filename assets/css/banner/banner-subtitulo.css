@@ -1,0 +1,9 @@
+.banner__subtitulo{
+    color: rgb(0, 0, 0);
+    font-family: 'Lobster', sans-serif;
+    position: absolute;
+    left: 50px;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+    top: 70%;
+    text-align: center;
+}
